@@ -27,6 +27,7 @@ $ python -m pip install grpcio
 $ python -m pip install grpcio-tools
 ```
 
-### Running
+### Running Server
 `$ python server.py`
+### Running Client
 `$ python client.py <SERVER-PORT> <YOUR-NAME>`
