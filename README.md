@@ -1,6 +1,6 @@
 # playing_with_gRPC
 
-## Node.js Helper
+## Help with node.js
 
 ### Set up
 ```
@@ -13,7 +13,7 @@ $ npm install
 ### Running Client
 `$ node client.js <SERVER-PORT> <YOUR-NAME>`
 
-## Python Helper
+## Help with python
 
 ### Set up
 ```
